@@ -1,0 +1,175 @@
+body{
+    background-color:#0081ff;
+    margin:0px;
+    padding:0px;
+} .container{
+    height:50px;
+    height: 100px;
+    background-color:#000000;
+} .CHILD{
+    background-color:#6ab6ff;
+    width:980px;
+    height:20px;
+} .BN{
+    width:50px;
+    height: 100px;
+    background-color:blue;
+    position: bottom;
+} .one{
+    text-align:top-left;
+    background-color:#ff5e00;
+    color: black;
+    border-radius: 10px;
+} .text{
+    position:top;
+    background-color:black;
+    color: orange;
+    border-radius:10px;
+} .mnm{
+    background-color:0000;
+    color:red;
+    font-size:18px;
+    left-:20px;
+} .abt{
+   background-color:#ff9315;
+   color:black;
+   font:FAMILY;
+   border-radius:1px;
+   margin: 5px;
+   font-size:30px;
+   
+     
+   
+} img{
+    width: 100px;
+    height: 150px;
+    align:center;
+} .p-1{
+    font-size:50px;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    
+} .abb{
+    background-color:#ff5e00;
+    color:black;
+    font:family;
+    border-radius:1px;
+    margin:5px;
+    font-size:25px;
+} hr{
+  background-xolor:black;
+    height: 5px;
+    color:black;
+} .HERO-SELECTION{
+    text-align:center;
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+   margin-right:20px;
+   margin-left:180px;
+   margin-top:50px;
+   border-radius: 35px;
+} .ipt{
+    margin:330px;
+    height:50px;
+    width:590px;
+    margin-right:20px;
+    margin-left:200px;
+    margin-top: 1%;
+    margin-top:0px;
+    
+    font-size:30px;
+    border-radius: 50px;
+    color:black;
+    background-color:#80c1ff;
+} footer{
+    text-align:center;
+    font-size:15px;
+    background-color:black;
+    margin:bottom: 0px;
+} .upt{
+    margin:300;
+    height:50px;
+    width:590px;
+    margin-right:20px;
+    background-color:black;
+    
+    
+    
+} .p-1{
+    text-align:center;
+    color: black;
+    font:arial;
+    margin-bottom: 100px;
+    
+    
+} .p-2{
+    text-align:center;
+    font-size:50px;
+} .p-3{
+    text-align:center;
+    font-size:50px;
+} .img-2{
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:180px;
+    margin-top:50px;
+    border-radius: 35px;
+} .p-4{
+    text-align:center;
+    font-size:35px;
+} .p-5{
+    text-align:center;
+    font-size:35px;
+} .p-7{
+    text-align:center;
+    font-size:50px;
+} .img-3{
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:180px;
+    margin-top:50px;
+    border-radius: 35px;
+} .img-4{
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:180px;
+    margin-top:50px;
+    border-radius: 35px;
+} .p-6{
+    text-align:center;
+    font-size:50px;
+} .p-8{
+    text-align:center;
+    font-size:35px;
+} .p-9{
+   text-align:center;
+    font-size:35px; 
+} hr{
+    color:black;
+} .LOGO{
+     width: 400px;
+    height: 400px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:280px;
+    margin-top:50px;
+    border-radius: 200px;
+} .p-10{
+    text-align:center;
+    font-size:35px; 
+} .p-11{
+    text-align:center;
+    font-size:35px; 
+} .p-12{
+     text-align:center;
+    font-size:35px; 
+} 
+
